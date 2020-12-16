@@ -1,4 +1,4 @@
-##SQL Training Week
+## SQL Training Week
 
 Topics Covered:
 
